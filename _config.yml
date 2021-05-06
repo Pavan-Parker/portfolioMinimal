@@ -1,6 +1,6 @@
 title: Pavan Kumar Pothula
 description: Engineering Student
-site_title: 'parker's portfolio'
+site_title: '@Pavan-Parker Pavan Kumar Pothula'
 
 # Build settings
 markdown: kramdown
@@ -8,14 +8,14 @@ exclude: [vendor/ruby]
 
 # Personalization
 github_username: Pavan-Parker
-blog_url: https://www.pavan-parker.github.io
+# blog_url: https://www.nagekar.com
 email: pavankumar.reddy@iiitb.org
-keybase_username: Pavan-Parker
-twitter_username: Pavan-Parker
-reddit_username: Pavan_Parker
+# keybase_username: Pavan-Parker
+# twitter_username: Pavan-Parker
+# reddit_username: Pavan_parker
 
 # absolute or relative
 profile_picture: assets/images/pp.jpg
 
 # Google Analytics ID
-google_analytics: 
+# google_analytics: 
